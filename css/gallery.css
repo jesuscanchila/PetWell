@@ -1,0 +1,32 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.gallery-content{
+    width: 90%;
+    max-width: 1000px;
+}
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.gallery{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: hidden;
+}
+.gallery-item{
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: calc(40%-20px);
+    overflow: hidden;
+    box-shadow: 0 0 10px blue;
+    margin: 10px;
+}

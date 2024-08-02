@@ -1,0 +1,57 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 20px;
+}
+
+.usuari{
+    background-color: blue;
+    text-align: center;
+}
+
+.mayor{
+    justify-content: center;
+    margin: auto;
+    width: 90%;
+    max-width: 900px;
+    background-color: aliceblue;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.mayor h1{
+    justify-content: center;
+    text-align: center;
+    border-radius: 15px;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.mayor h1{
+    justify-content: center;
+    text-align: center;
+    border-radius: 15px;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.mayor p{
+    justify-content: center;
+    text-align: center;
+    border-radius: 15px;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.fondo{
+    justify-content: center;
+    text-align: center;
+    border-radius: 15px;
+    color: aliceblue;
+    padding: 20px;
+}
+
